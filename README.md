@@ -1,6 +1,6 @@
-# internship-project
 
-# Sentiment Analysis on Twitter Data using Machine Learning
+# PROJECTS
+# 1.Sentiment Analysis on Twitter Data using Machine Learning
 
 # Project Description
 
@@ -19,7 +19,7 @@ To train and evaluate a sentiment classification model
 
 To achieve high classification accuracy using a clean and balanced dataset
 
-# Spam Email Classifier using Machine Learning
+# 2.Spam Email Classifier using Machine Learning
 
 # Project Description
 
